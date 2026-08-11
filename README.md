@@ -1,6 +1,6 @@
 # Navit Dori
 
-Physicist → Data Scientist, actively job searching.
+Physicist and Data Scientist, actively job searching.
 
 Applied ML and statistics across geospatial forecasting, time-series analysis, and economic-impact modeling. Physics background; prior professional experience includes economic-impact analysis (Leontieff input-output modeling, employment multiplier benchmarking) for a consulting engagement.
 
